@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mongodb/node-mongodb-native.git"
+    "url": "git@github.com:Footmarks/node-mongodb-native.git"
   },
   "keywords": [
     "mongodb",
@@ -33,5 +33,5 @@
     "url": "https://github.com/mongodb/node-mongodb-native/issues"
   },
   "scripts": { "test" : "node test/runner.js -t functional" },
-  "homepage": "https://github.com/mongodb/node-mongodb-native"
+  "homepage": "https://github.com/Footmarks/node-mongodb-native"
 }
